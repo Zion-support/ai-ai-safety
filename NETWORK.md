@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-ai-safety** — AI safety testing, red-teaming and evaluation frameworks. Part of the Zion Tech Group app network (630+ apps).
+**ai-ai-safety** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
 ## Related apps
-- [ai-eval-harness](https://github.com/Zion-support/ai-eval-harness) — LLM regression testing
-- [prompt-shield](https://github.com/Zion-support/prompt-shield) — prompt-injection defense
-- [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) — AI governance
+- [accessibility-checker](https://github.com/Zion-support/accessibility-checker) — WCAG 2.2 issue finder
+- [ai-architecture-design](https://github.com/Zion-support/ai-architecture-design) — AI Architecture Design
+- [ai-assessment-engine](https://github.com/Zion-support/ai-assessment-engine) — AI Assessment Engine
+- [prompt-shield](https://github.com/Zion-support/prompt-shield) — LLM security testing
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
